@@ -13,7 +13,7 @@ dist/
 # Compiled Python bytecode
 *.py[cod]
 .venv/
-venv
+venv/
 .vscode/
 
 # Log files
